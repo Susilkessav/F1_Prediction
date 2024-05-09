@@ -1,6 +1,6 @@
 # F1_Prediction
 ## Project Description
-This project is designed to analyze and predict loan approval statuses based on a range of demographic and financial factors. It employs a dataset that includes various attributes such as gender, marital status, education, employment status, income levels, credit history, and property area among others. The project is split into two main components detailed in the Jupyter notebooks:
+This project is designed to analyze and predict loan approval statuses based on a range of demographic and financial factors. It employs a dataset that includes various attributes such as gender, marital status, education, employment status, income levels, credit history, and property area among others.
 
 ## Data Analysis and Statistical Approaches (Data_AnalysisStatistic_Approach.ipynb):
 * Exploratory Data Analysis (EDA): Visual and statistical analysis to understand the distributions and relationships of various features in the dataset.
