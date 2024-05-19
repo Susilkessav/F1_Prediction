@@ -1,4 +1,4 @@
-# F1_Prediction
+# Loan_Prediction
 ## Project Description
 This project is designed to analyze and predict loan approval statuses based on a range of demographic and financial factors. It employs a dataset that includes various attributes such as gender, marital status, education, employment status, income levels, credit history, and property area among others.
 
